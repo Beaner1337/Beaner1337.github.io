@@ -9,7 +9,7 @@ class _app {
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello','headShake','jello','heartbeat','bounceIn','bounceInDown',
 			'bounceInLeft','fadeIn','fadeInDown','flip','flipInX','flipInY','rotateIn','rotateInDownLeft','slideInLeft','slideInDown','zoomIn','zoomInDown','jackInTheBox','zoomInLeft'];
-  brandDescription = ['Defacer', 'Big Namer', 'HVHER', 'Discord:','wta#0001'];
+  brandDescription = ['Defacer', 'Big Namer', 'hvher', 'Discord:','wta#0001'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
